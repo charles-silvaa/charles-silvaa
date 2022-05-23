@@ -1,7 +1,7 @@
 Oi! eu sou o Charles,
 
 - 🌱 Estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas
-- 👯 Mesmo sendo iniciante, procuro por uma oportunidade de estágio
+- 👯 Faço cursos extras para me aprimorar e para permitir que alcançe meus objetivos
 - 📫 31 99378-8476
 
 <div>
